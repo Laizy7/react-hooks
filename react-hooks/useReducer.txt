@@ -1,0 +1,1 @@
+clean props like any kind of handles (handleAdd, handleDelete, handleEdit, etc) with dispatch={dispatch}

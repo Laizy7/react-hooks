@@ -1,0 +1,3 @@
+useMemo cant return function, it only return value of the function.
+
+useCallback return the entire function.
