@@ -7,12 +7,12 @@
 // import StateWithHistoryComponent from './7-useStateWithHistory/StateWithHistoryComponent'
 // import StorageComponent from './8-useStorage/StorageComponent'
 // import AsyncComponent from './9-useAsync/AsyncComponent'
-import FetchComponent from './10-useFetch/FetchComponent'
+// import FetchComponent from './10-useFetch/FetchComponent'
 // import ScriptComponent from './11-useScript/ScriptComponent'
 // import DeepCompareEffectComponent from './12-useDeepCompareEffect/DeepCompareEffectComponent'
 // import EventListenerComponent from './13-useEventListener/EventListenerComponent'
 // import OnScreenComponentComponent from './14-useOnScreen/OnScreenComponent'
-// import WindowSizeComponent from './15-useWindowSize/WindowSizeComponent'
+import WindowSizeComponent from './15-useWindowSize/WindowSizeComponent'
 // import MediaQueryComponent from './16-useMediaQuery/MediaQueryComponent'
 // import GeolocationComponent from './17-useGeolocation/GeolocationComponent'
 // import StateWithValidationComponent from './18-useStateWithValidation/StateWithValidationComponent'
@@ -39,12 +39,12 @@ function App() {
   // return <StateWithHistoryComponent />
   // return <StorageComponent />
   // return <AsyncComponent />
-  return <FetchComponent />
+  // return <FetchComponent />
   // return <ScriptComponent />
   // return <DeepCompareEffectComponent />
   // return <EventListenerComponent />
   // return <OnScreenComponentComponent />
-  // return <WindowSizeComponent />
+  return <WindowSizeComponent />
   // return <MediaQueryComponent />
   // return <GeolocationComponent />
   // return <StateWithValidationComponent />
